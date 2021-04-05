@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ywR5i7RDVloZw6xSSbXdFCmo0rv8N+v+YY2OjeMJFtjjLeUEeF0nVJDmYc8os/OPbWCf+4z5UKNVQORdLju1QA==",
+  "success": true,
+  "projectFilePath": "E:\\BoxLibrary\\BoxLibrary\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\netan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\netan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

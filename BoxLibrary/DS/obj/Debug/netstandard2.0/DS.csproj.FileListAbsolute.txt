@@ -1,0 +1,8 @@
+E:\BoxLibrary\BoxLibrary\DS\bin\Debug\netstandard2.0\DS.deps.json
+E:\BoxLibrary\BoxLibrary\DS\bin\Debug\netstandard2.0\DS.dll
+E:\BoxLibrary\BoxLibrary\DS\bin\Debug\netstandard2.0\DS.pdb
+E:\BoxLibrary\BoxLibrary\DS\obj\Debug\netstandard2.0\DS.csproj.CoreCompileInputs.cache
+E:\BoxLibrary\BoxLibrary\DS\obj\Debug\netstandard2.0\DS.AssemblyInfoInputs.cache
+E:\BoxLibrary\BoxLibrary\DS\obj\Debug\netstandard2.0\DS.AssemblyInfo.cs
+E:\BoxLibrary\BoxLibrary\DS\obj\Debug\netstandard2.0\DS.dll
+E:\BoxLibrary\BoxLibrary\DS\obj\Debug\netstandard2.0\DS.pdb

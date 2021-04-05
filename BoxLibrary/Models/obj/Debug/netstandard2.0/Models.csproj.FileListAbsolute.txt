@@ -1,0 +1,12 @@
+E:\BoxLibrary\BoxLibrary\Models\bin\Debug\netstandard2.0\Models.deps.json
+E:\BoxLibrary\BoxLibrary\Models\bin\Debug\netstandard2.0\Models.dll
+E:\BoxLibrary\BoxLibrary\Models\bin\Debug\netstandard2.0\Models.pdb
+E:\BoxLibrary\BoxLibrary\Models\bin\Debug\netstandard2.0\DS.dll
+E:\BoxLibrary\BoxLibrary\Models\bin\Debug\netstandard2.0\DS.pdb
+E:\BoxLibrary\BoxLibrary\Models\obj\Debug\netstandard2.0\Models.csprojAssemblyReference.cache
+E:\BoxLibrary\BoxLibrary\Models\obj\Debug\netstandard2.0\Models.csproj.CoreCompileInputs.cache
+E:\BoxLibrary\BoxLibrary\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cache
+E:\BoxLibrary\BoxLibrary\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs
+E:\BoxLibrary\BoxLibrary\Models\obj\Debug\netstandard2.0\Models.csproj.CopyComplete
+E:\BoxLibrary\BoxLibrary\Models\obj\Debug\netstandard2.0\Models.dll
+E:\BoxLibrary\BoxLibrary\Models\obj\Debug\netstandard2.0\Models.pdb
